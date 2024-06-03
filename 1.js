@@ -1,4 +1,4 @@
-document.write('<div id="float" style="z-index: 999;"><a href="https://wa.me/+14169050633"><img src="https://ik82.com/img/lm2qbDL1.gif" alt="" height="350" width="150"></a></div> ');
+document.write('<div id="float" style="z-index: 999;"><a href="https://wa.me/+201206711067"><img src="https://ik82.com/img/lm2qbDL1.gif" alt="" height="350" width="150"></a></div> ');
 var IO=document.getElementById('float'),Y=IO,H=0,IE6;  
 IE6=window.ActiveXObject&&!window.XMLHttpRequest;  
 while(Y){H+=Y.offsetTop;Y=Y.offsetParent};  
